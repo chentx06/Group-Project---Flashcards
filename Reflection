@@ -1,0 +1,32 @@
+The parts I coded for is the starting page including GUI, action listeners and audio, I also coded the main page with Lucy, doing mostly the logic things and putting the images on the buttons, and then I did tons of debugging, each bug took a really long time to figure out, because our code is very long and we have so many different variables, so even if they have meaningful names, it wouldn’t help too much, but we were able to get it right at last. 
+
+I enjoyed this project very much not because it’s something that I like so much, but because of the victorious feeling after successful debugging everytime. On the first class, our group started with a schedule of coding, and recorded everyone’s strengths, it looked like this: 
+
+Then we decided that we would do something similar to Flashcards or Quizlet, and we put a mind map and decided the classes of the whole project: 
+Everyone started coding their own classes, but this didn’t work out well, there were many many challenges. Because one of the key parts of this project was storing the input and reading the output with file I/O, and no one was really familiar with this part, one person signed up for it, and the code was only complete on the 31st. The biggest mistake that we made here was that although the I/O was an extremely foundational project, we did not prioritize that without a lot of debugging, and because some did the EditDeckGUI class, she needed to get the input from the file, so she ended up coding a lot of the Main class as well, and because the Scrap cards GUI Menu class i.e the flipping card page also featured that, I also had to do that. 
+
+If the people who have related classes talked more during the process of coding, the person who did the I/O class could have helped much more with the EditDeckGUI and GUIMenu class. Everyone thought that the I/O would be straightforward, but it wasn’t as easy as we thought because we have complex relationships between the instances of classes and just the classes themselves, and we started using this quite late.Most of us have written pretty meaningful variable names, however because we have so many different elements on the GUI, if made it harder for us to see which particular element or variable had errors, and therefore took much longer time to debug. Sometimes some people didn’t put comments in their java programs, which made it hard for others to understand their code. Additionally, it was hard for us to update the code to everyone else, for instance, if I have a file or picture stored in a specific address in my computer, if I pass on this to someone else, they won’t be able to use it. Also, coding in Replit was very unsafe, sometimes it wouldn’t update to other people weirdly enough, and sometimes people could accidentally write over each other’s code. 
+  It was also hard for me to keep history versions of the code because everything was so complex. 
+
+In this project, I learned: 
+A lot of input & output storing 
+To start from foundational things
+How to put audio into a program
+Image resizing 
+Images on elements of GUI
+Better understanding of static declarations
+To decode all the time, continuous decoding
+To always keep a copy of the code
+
+I will Improve on: 
+Starting from scratch 
+Less repetitive code, especially for the GUI
+Time management
+Continuous debugging
+
+I Will Keep Doing: 
+Flow charts
+Comments
+Using GUI
+Keep trying
+Using audio and images
